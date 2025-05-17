@@ -7,7 +7,7 @@ A simple, responsive countdown timer build using:
 - CSS
 - JavaScript
 
-🔗 **Live Site**(https://spiritx-2026-countdown.netlify.app/)
+🔗 **Live Site** : [https://spiritx-2026-countdown.netlify.app/]
 
 
 ## 📁 Folder Structure
